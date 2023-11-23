@@ -1,4 +1,4 @@
-package com.my.newproject37;
+package com.utils.CelestDevs;
 
 public class CustomExceptionHandler {
 
